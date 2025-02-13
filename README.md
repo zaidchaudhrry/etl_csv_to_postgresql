@@ -1,4 +1,3 @@
-# 📊 Automated Sales Dashboard (ETL Pipeline)
 
 This project implements an **ETL (Extract, Transform, Load) pipeline** for processing retail transaction data from an Excel file and loading it into a **PostgreSQL database**. The pipeline follows these three main steps:
 
